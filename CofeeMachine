@@ -1,3 +1,5 @@
+Problem: Multiple cofee terminals in large cofee shop, and labeling of cups corresponding to buyer with wanted cup.
+NB! Could also be used for hamburgers in hamburger shop.
 
 oneCofee x fillDegree x cofeeTypeDegree -> cofee
 twoCofee x fillDegree x cofeeTypeDegree -> cofee
