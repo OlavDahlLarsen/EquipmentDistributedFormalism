@@ -9,3 +9,10 @@ Requirments:
 - Enough cofee
 - Enough water
 - Enough place for trash.
+
+Queue[Agent] waitQ;
+
+while True do
+    Agent 
+
+od
